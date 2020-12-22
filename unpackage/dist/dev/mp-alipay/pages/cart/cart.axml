@@ -1,0 +1,1 @@
+<view><block a:for="{{carts}}" a:for-item="item" a:for-index="__i0__" a:key="id"><view><text>{{item.name}}</text><text>{{item.buynum}}</text><text>{{item.sellprice}}</text></view></block></view>

@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "首页",
+  "onReachBottomDistance": 20,
+  "usingComponents": {
+    "uni-badge": "/components/uni-ui/uni-badge/uni-badge",
+    "uni-grid": "/components/uni-ui/uni-grid/uni-grid",
+    "uni-grid-item": "/components/uni-ui/uni-grid-item/uni-grid-item",
+    "uni-load-more": "/components/uni-ui/uni-load-more/uni-load-more",
+    "goodlist": "/components/goodlist/goodlist"
+  }
+}

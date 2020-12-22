@@ -1,0 +1,1 @@
+<view><goodlist vue-id="1" goods="{{goods}}" onVueInit="__l"></goodlist><block a:if="{{!flag}}"><uni-load-more vue-id="2" status="loading" onVueInit="__l"></uni-load-more></block><block a:else><uni-load-more vue-id="3" status="noMore" onVueInit="__l"></uni-load-more></block></view>

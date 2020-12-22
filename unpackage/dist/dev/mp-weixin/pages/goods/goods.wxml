@@ -1,0 +1,1 @@
+<view><goodlist vue-id="1" goods="{{goods}}" bind:__l="__l"></goodlist><block wx:if="{{!flag}}"><uni-load-more vue-id="2" status="loading" bind:__l="__l"></uni-load-more></block><block wx:else><uni-load-more vue-id="3" status="noMore" bind:__l="__l"></uni-load-more></block></view>

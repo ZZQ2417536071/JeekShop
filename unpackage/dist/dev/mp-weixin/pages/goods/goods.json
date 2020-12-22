@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "极客超市",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-load-more": "/components/uni-ui/uni-load-more/uni-load-more",
+    "goodlist": "/components/goodlist/goodlist"
+  }
+}

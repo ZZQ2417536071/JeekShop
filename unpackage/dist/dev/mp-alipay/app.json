@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/news/news",
+    "pages/member/member",
+    "pages/cart/cart",
+    "pages/goods/goods",
+    "pages/pics/pics",
+    "pages/contact/contact",
+    "pages/videos/videos",
+    "pages/newsdetail/newsdetail",
+    "pages/goodsdetail/goodsdetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "defaultTitle": "极客商城",
+    "titleBarColor": "#1989fa",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "items": [
+      {
+        "pagePath": "pages/index/index",
+        "name": "首页",
+        "icon": "static/icon/home.png",
+        "activeIcon": "static/icon/home-active.png"
+      },
+      {
+        "pagePath": "pages/news/news",
+        "name": "新闻",
+        "icon": "static/icon/news.png",
+        "activeIcon": "static/icon/news-active.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "name": "购物车",
+        "icon": "static/icon/cart.png",
+        "activeIcon": "static/icon/cart-active.png"
+      },
+      {
+        "pagePath": "pages/member/member",
+        "name": "我的",
+        "icon": "static/icon/member.png",
+        "activeIcon": "static/icon/member-active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

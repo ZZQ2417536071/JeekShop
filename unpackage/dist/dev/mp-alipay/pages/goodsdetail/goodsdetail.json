@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "商品详情",
+  "usingComponents": {
+    "uni-goods-nav": "/components/uni-ui/uni-goods-nav/uni-goods-nav"
+  }
+}
